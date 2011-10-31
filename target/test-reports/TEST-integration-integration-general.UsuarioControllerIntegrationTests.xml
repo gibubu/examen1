@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Gibran.local" name="general.UsuarioControllerIntegrationTests" tests="4" time="0.381" timestamp="2011-10-19T20:22:14">
+  <properties />
+  <testcase classname="general.UsuarioControllerIntegrationTests" name="debieraMostrarListadeUsuarios" time="0.308" />
+  <testcase classname="general.UsuarioControllerIntegrationTests" name="debieraCrearUsuario" time="0.021" />
+  <testcase classname="general.UsuarioControllerIntegrationTests" name="debieraActualizarUsuario" time="0.03" />
+  <testcase classname="general.UsuarioControllerIntegrationTests" name="debieraEliminarUsuario" time="0.017" />
+  <system-out><![CDATA[--Output from debieraMostrarListadeUsuarios--
+--Output from debieraCrearUsuario--
+--Output from debieraActualizarUsuario--
+--Output from debieraEliminarUsuario--
+]]></system-out>
+  <system-err><![CDATA[--Output from debieraMostrarListadeUsuarios--
+--Output from debieraCrearUsuario--
+--Output from debieraActualizarUsuario--
+--Output from debieraEliminarUsuario--
+]]></system-err>
+</testsuite>

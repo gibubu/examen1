@@ -1,0 +1,19 @@
+Testsuite: general.GrupoControllerIntegrationTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0,983 sec
+------------- Standard Output ---------------
+--Output from debieraMostrarListadeGrupos--
+--Output from debieraCrearGrupo--
+--Output from debieraActualizarGrupo--
+--Output from debieraEliminarGrupo--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from debieraMostrarListadeGrupos--
+--Output from debieraCrearGrupo--
+--Output from debieraActualizarGrupo--
+--Output from debieraEliminarGrupo--
+------------- ---------------- ---------------
+
+Testcase: debieraMostrarListadeGrupos took 0,718 sec
+Testcase: debieraCrearGrupo took 0,138 sec
+Testcase: debieraActualizarGrupo took 0,069 sec
+Testcase: debieraEliminarGrupo took 0,033 sec

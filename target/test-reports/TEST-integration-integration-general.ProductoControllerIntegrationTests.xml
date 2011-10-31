@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Gibran.local" name="general.ProductoControllerIntegrationTests" tests="5" time="0.313" timestamp="2011-10-19T20:22:13">
+  <properties />
+  <testcase classname="general.ProductoControllerIntegrationTests" name="debieraMostrarListaDeProductos" time="0.193" />
+  <testcase classname="general.ProductoControllerIntegrationTests" name="debieraCrearProducto" time="0.037" />
+  <testcase classname="general.ProductoControllerIntegrationTests" name="debieraActualizarProducto" time="0.038" />
+  <testcase classname="general.ProductoControllerIntegrationTests" name="debieraEliminarProducto" time="0.036" />
+  <testcase classname="general.ProductoControllerIntegrationTests" name="debieraBuscarGrupo" time="0.0040" />
+  <system-out><![CDATA[--Output from debieraMostrarListaDeProductos--
+--Output from debieraCrearProducto--
+--Output from debieraActualizarProducto--
+--Output from debieraEliminarProducto--
+--Output from debieraBuscarGrupo--
+]]></system-out>
+  <system-err><![CDATA[--Output from debieraMostrarListaDeProductos--
+--Output from debieraCrearProducto--
+--Output from debieraActualizarProducto--
+--Output from debieraEliminarProducto--
+--Output from debieraBuscarGrupo--
+]]></system-err>
+</testsuite>

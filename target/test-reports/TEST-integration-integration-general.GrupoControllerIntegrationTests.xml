@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Gibran.local" name="general.GrupoControllerIntegrationTests" tests="4" time="0.983" timestamp="2011-10-19T20:22:12">
+  <properties />
+  <testcase classname="general.GrupoControllerIntegrationTests" name="debieraMostrarListadeGrupos" time="0.718" />
+  <testcase classname="general.GrupoControllerIntegrationTests" name="debieraCrearGrupo" time="0.138" />
+  <testcase classname="general.GrupoControllerIntegrationTests" name="debieraActualizarGrupo" time="0.069" />
+  <testcase classname="general.GrupoControllerIntegrationTests" name="debieraEliminarGrupo" time="0.033" />
+  <system-out><![CDATA[--Output from debieraMostrarListadeGrupos--
+--Output from debieraCrearGrupo--
+--Output from debieraActualizarGrupo--
+--Output from debieraEliminarGrupo--
+]]></system-out>
+  <system-err><![CDATA[--Output from debieraMostrarListadeGrupos--
+--Output from debieraCrearGrupo--
+--Output from debieraActualizarGrupo--
+--Output from debieraEliminarGrupo--
+]]></system-err>
+</testsuite>

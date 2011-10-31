@@ -1,0 +1,5 @@
+--Output from debieraMostrarListaDeProductos--
+--Output from debieraCrearProducto--
+--Output from debieraActualizarProducto--
+--Output from debieraEliminarProducto--
+--Output from debieraBuscarGrupo--

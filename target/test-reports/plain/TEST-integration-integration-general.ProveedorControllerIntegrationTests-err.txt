@@ -1,0 +1,4 @@
+--Output from debieraMostrarListaDeProveedores--
+--Output from debieraCrearProveedor--
+--Output from debieraActualizarProveedor--
+--Output from debieraEliminarProveedor--

@@ -1,0 +1,19 @@
+Testsuite: general.UsuarioControllerIntegrationTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0,381 sec
+------------- Standard Output ---------------
+--Output from debieraMostrarListadeUsuarios--
+--Output from debieraCrearUsuario--
+--Output from debieraActualizarUsuario--
+--Output from debieraEliminarUsuario--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from debieraMostrarListadeUsuarios--
+--Output from debieraCrearUsuario--
+--Output from debieraActualizarUsuario--
+--Output from debieraEliminarUsuario--
+------------- ---------------- ---------------
+
+Testcase: debieraMostrarListadeUsuarios took 0,308 sec
+Testcase: debieraCrearUsuario took 0,021 sec
+Testcase: debieraActualizarUsuario took 0,03 sec
+Testcase: debieraEliminarUsuario took 0,017 sec

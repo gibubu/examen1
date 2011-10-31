@@ -1,0 +1,19 @@
+Testsuite: general.ProveedorControllerIntegrationTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0,428 sec
+------------- Standard Output ---------------
+--Output from debieraMostrarListaDeProveedores--
+--Output from debieraCrearProveedor--
+--Output from debieraActualizarProveedor--
+--Output from debieraEliminarProveedor--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from debieraMostrarListaDeProveedores--
+--Output from debieraCrearProveedor--
+--Output from debieraActualizarProveedor--
+--Output from debieraEliminarProveedor--
+------------- ---------------- ---------------
+
+Testcase: debieraMostrarListaDeProveedores took 0,287 sec
+Testcase: debieraCrearProveedor took 0,037 sec
+Testcase: debieraActualizarProveedor took 0,047 sec
+Testcase: debieraEliminarProveedor took 0,051 sec

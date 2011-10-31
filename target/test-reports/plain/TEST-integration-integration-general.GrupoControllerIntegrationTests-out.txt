@@ -1,0 +1,4 @@
+--Output from debieraMostrarListadeGrupos--
+--Output from debieraCrearGrupo--
+--Output from debieraActualizarGrupo--
+--Output from debieraEliminarGrupo--
